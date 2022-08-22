@@ -1,9 +1,9 @@
 ---
 title: |
-    Data Structures Semester Project, Spring 2021: Document Store and Search
-    Engine.
+    Data Structures Semester Project, Spring 2022: Document Storage and Search
+    System.
 ---
-Everything is included in Stage 5.
+The following is the requirements document for the project. All five stages are included in the final code.
 
 Stage 1: Build an In-Memory Document Store **(HashTable)**
 ==========================================================
